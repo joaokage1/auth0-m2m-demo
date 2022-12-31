@@ -1,0 +1,4 @@
+auth0:
+  m2m:
+    domain: YOUR_AUTH0_DOMAIN
+
